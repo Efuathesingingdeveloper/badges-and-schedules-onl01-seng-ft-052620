@@ -16,4 +16,5 @@ end
 
 def printer(names)
   batch_badge_creator(names).each do |badge,|
+  end
 end
