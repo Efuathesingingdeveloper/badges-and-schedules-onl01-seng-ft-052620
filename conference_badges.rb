@@ -20,6 +20,6 @@ def printer(names)
   end
   
    assign_rooms(names).each do |asssigned_room|
-  puts ass
+  puts asssigned_room
  end  
 end
